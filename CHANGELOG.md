@@ -1,3 +1,5 @@
+### 2.0.0 (2018-03-07)
+
 ### 1.23.0 (2017-06-19)
 
   * Improved SyslogUdpHandler's support for RFC5424 and added optional `$ident` argument

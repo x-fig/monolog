@@ -1,8 +1,8 @@
 {
-    "name": "monolog/monolog",
+    "name": "x-fig/monolog",
     "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
     "keywords": ["log", "logging", "psr-3"],
-    "homepage": "http://github.com/Seldaek/monolog",
+    "homepage": "http://github.com/x-fig/monolog",
     "type": "library",
     "license": "MIT",
     "authors": [
